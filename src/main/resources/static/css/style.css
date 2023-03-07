@@ -1,0 +1,36 @@
+body {
+    color: aquamarines;
+}
+
+
+button {
+    margin: 1%;
+}
+
+.description-value {
+    font-size: 1.15rem;
+}
+.container-fluid {
+    padding: 1% 8%;
+}
+
+.description {
+    font-size: 1.5rem;
+}
+
+.book-img {
+    padding: 5%;
+    text-align: center;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.social-links {
+    margin: 10%;
+}
+
+.card {
+    height: 100%;
+}
